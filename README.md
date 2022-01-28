@@ -1,6 +1,8 @@
 This repo holds the codes of our paper:
 
-**Adaptive Dropblock Enhanced GenerativeAdversarial Networks for Hyperspectral Image Classification**, which is acctetped by *IEEE Transactions on Geoscience and Remote Sensing*. 
+**Adaptive Dropblock Enhanced GenerativeAdversarial Networks for Hyperspectral Image Classification**
+
+in IEEE Transactions on Geoscience and Remote Sensing, vol. 59, no. 6, pp. 5040-5053, June 2021, doi: 10.1109/TGRS.2020.3015843.
 
 The demo has not been well organized. Please contact me if you meet any problems.
 
